@@ -1150,7 +1150,7 @@
                     "avaliation": 4.5,
                     "open": "24 horas",
                     "lacalization": "R. Baruel, 689 - Vila Costa, Suzano - SP, 08675-000",
-                    "logo": "https://w7.pngwing.com/pngs/873/995/png-transparent-mcdonald-s-logo-oldest-mcdonald-s-restaurant-ronald-mcdonald-logo-golden-arches-mcdonalds-miscellaneous-angle-food-thumbnail.png",
+                    "image": "https://w7.pngwing.com/pngs/873/995/png-transparent-mcdonald-s-logo-oldest-mcdonald-s-restaurant-ronald-mcdonald-logo-golden-arches-mcdonalds-miscellaneous-angle-food-thumbnail.png",
                     "menu": [
                         {
                             "categoria_id": 1,
@@ -1463,7 +1463,7 @@
                     "avaliation": 4.3,
                     "open": "24 horas",
                     "localization": "R. Prudente de Morais, 650 - Vila Amorim, Suzano - SP, 08674-050",
-                    "logo": "https://logospng.org/wp-content/uploads/burger-king.png",
+                    "image": "https://logospng.org/wp-content/uploads/burger-king.png",
                     "menu": [
                         {
                             "categoria_id": 1,
