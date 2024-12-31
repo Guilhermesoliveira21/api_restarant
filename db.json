@@ -1032,20 +1032,6 @@
             "portion_size": "Porção Individual"
         },
         {
-            "id": 405,
-            "name": "Bruschetta de Tomate",
-            "price": 14.00,
-            "description": "Pão italiano tostado com tomate, manjericão e azeite.",
-            "ingredients": [
-                "pão italiano",
-                "tomate",
-                "manjericão",
-                "azeite"
-            ],
-            "image": "https://www.exemplo.com/imagens/bruschetta_tomate.jpg",
-            "portion_size": "Porção com 4 unidades"
-        },
-        {
             "id": 406,
             "name": "Lasanha à Bolonhesa",
             "price": 34.50,
@@ -1134,7 +1120,7 @@
                 "açúcar",
                 "creme de leite"
             ],
-            "image": "https://www.averiecooks.com/wp-content/uploads/2012/08/chocolatecake-14.jpg",
+            "image": "https://jalna.com.au/wp-content/uploads/2020/01/Jalna-Recipe-Chocolate-Fudge-Cake.jpg",
             "images": [
                 "https://www.averiecooks.com/wp-content/uploads/2012/08/chocolatecake-14.jpg",
                 "https://jalna.com.au/wp-content/uploads/2020/01/Jalna-Recipe-Chocolate-Fudge-Cake.jpg"
