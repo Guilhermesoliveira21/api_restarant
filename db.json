@@ -1142,7 +1142,7 @@
             "portion_size": "Fatia"
         }
     ],
-    "restarants": [
+    "restarants":
         {
             "restarant": [
                 {
@@ -1584,5 +1584,5 @@
                 }
             ]
         }
-    ]
+    
 }
