@@ -2,31 +2,38 @@
     "category": [
         {
             "id": 1,
-            "name": "Pratos Principais"
+            "name": "Pratos Principais",
+            "image": "https://www.socialbauru.com.br/wp-content/uploads/2024/05/categoria-prato-principal-3.jpg"
         },
         {
             "id": 2,
-            "name": "Bebidas"
+            "name": "Bebidas",
+            "image": "https://blog.webbar.com.br/wp-content/uploads/2023/07/159304.png"
         },
         {
             "id": 3,
-            "name": "Sobremesas"
+            "name": "Sobremesas",
+            "image": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-sobremesas-4.jpg"
         },
         {
             "id": 4,
-            "name": "Petiscos"
+            "name": "Petiscos",
+            "image": "https://topreceitas.com.br/wp-content/uploads/2020/08/free-photo-of-close-up-of-meat-and-fries-scaled-829x550.jpeg"
         },
         {
             "id": 6,
-            "name": "Massas"
+            "name": "Massas",
+            "image": "https://www.academiaassai.com.br/sites/default/files/styles/noticia_1020x640/public/dicas-de-como-fazer-a-massa-perfeita-macarrao-penne.jpg?itok=9KWmbgEQ"
         },
         {
             "id": 8,
-            "name": "Lanches"
+            "name": "Lanches",
+            "image": "https://www.acidadeon.com/tudoep/wp-content/uploads/sites/10/2023/12/lanches_gratis_1200x675_27102023115024.jpg"
         },
         {
             "id": 10,
-            "name": "Burgers"
+            "name": "Burgers",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTno-gGnXwrjAKEmmVLGOJGetUxUzIEWPsf9w&s"
         }
     ],
     "menu": [
